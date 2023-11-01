@@ -3,7 +3,7 @@ import pyautogui as auto
 import schedule, webbrowser
 
 
-link = "meet.google.com/yia-ckmq-mtc"
+link = "meet.google.com/zwc-oboq-ftc"
 
 time = "13:00"
 
